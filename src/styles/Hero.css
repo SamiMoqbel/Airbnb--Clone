@@ -1,0 +1,17 @@
+.hero-container{
+  display: flex;
+  flex-direction: column;
+  padding:20px 40px;
+  justify-content: space-between;
+}
+
+
+.photo-grid{
+  width: 600px;
+  align-self: center;
+}
+
+.hero-paragraph{
+  width: 340px;
+}
+

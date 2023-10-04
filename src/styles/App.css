@@ -1,0 +1,10 @@
+.cards-container{
+  height: 100%;
+  display: flex;
+  flex-wrap: nowrap;
+  gap:20px;
+  overflow-x: auto;
+  padding-left:40px;
+  padding-right:40px;
+  scroll-snap-type: x mandatory;
+}
